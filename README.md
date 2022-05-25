@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/denilsonbezerra">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=tokyonight"/>
+  <img height="176em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=tokyonight"/>
 </div>
   
 <br>
