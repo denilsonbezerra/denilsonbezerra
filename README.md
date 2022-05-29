@@ -34,3 +34,5 @@
     <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
