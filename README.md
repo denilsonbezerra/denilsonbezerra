@@ -9,7 +9,7 @@
 
 - **🌱 I’m currently learning english at [Kultivi](https://kultivi.com)**
 
-## 🛠 &nbsp;Tecnologias Estudadas
+## 🛠 &nbsp;Dev Skills
 
 <a href="https://github.com/denilsonbezerra">
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=github_dark">
