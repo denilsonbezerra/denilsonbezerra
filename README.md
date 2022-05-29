@@ -1,15 +1,19 @@
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Denilson Bezerra
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+<a href="https://github.com/denilsonbezerra">
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
+</a>
+  
+- **📚 Estudando Desenvolvimento Web Front-End (React JS)**
 
-- 📚 Estudando Desenvolvimento Web Front-End (React JS)
+- **👨🏼‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
-- 👨🏼‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas
-
-- 🌱 I’m currently learning english at [Kultivi](https://kultivi.com)
+- **🌱 I’m currently learning english at [Kultivi](https://kultivi.com)**
 
 ## 🛠 &nbsp;Tecnologias Estudadas
 
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=github_dark">
+<a href="https://github.com/denilsonbezerra">
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=github_dark">
+</a>
 <br>
 <div>
   <img align="center" alt="HTML5" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,4 +39,4 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/denilsonbezerra/denilsonbezerra/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/denilsonbezerra/denilsonbezerra/blob/output/github-contribution-grid-snake.svg)](https://github.com/denilsonbezerra)
