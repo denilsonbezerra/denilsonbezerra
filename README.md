@@ -1,11 +1,11 @@
-# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Denilson Bezerra
+# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Denilson
 <a href="https://github.com/denilsonbezerra">
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true">
 </a>
-  
-- **📚 Estudando Desenvolvimento Web Front-End (React JS)**
 
-- **👨🏼‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas**
+- **👨🏽‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas**
+  
+- **📚 Estudando Desenvolvimento Web Front-End (React)**
 
 - **🌱 I’m currently learning english at [Kultivi](https://kultivi.com)**
 
@@ -21,7 +21,7 @@
   <img align="center" alt="JavaScript" height="38" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <br><br>
   <img align="center" alt="Git" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="VS Code" height="35" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="VS Code" height="38" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="React" height="40" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
