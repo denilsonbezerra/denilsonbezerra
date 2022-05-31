@@ -1,6 +1,6 @@
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Denilson Bezerra
 <a href="https://github.com/denilsonbezerra">
-  <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF">
+  <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0A0E12&icon_color=F4F9FC">
 </a>
 
 - **👨🏽‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas**
@@ -12,7 +12,7 @@
 ## 🛠 &nbsp;Dev Skills
 
 <a href="https://github.com/denilsonbezerra">
-  <img align="right" alt="Denilson Bezerra - Most Used Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=dark">
+  <img align="right" alt="Denilson Bezerra - Most Used Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=dark&bg_color=0A0E12">
 </a>
 <br>
 <div>
