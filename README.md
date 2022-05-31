@@ -1,6 +1,6 @@
 # Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30em">, eu sou o Denilson Bezerra
 <a href="https://github.com/denilsonbezerra">
-  <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&">
+  <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide=">
 </a>
 
 - **👨🏽‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas**
