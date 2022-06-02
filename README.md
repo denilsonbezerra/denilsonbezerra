@@ -31,11 +31,11 @@
   <a href="mailto:denilsonbezerra.10@hotmail.com">
     <img align="center" alt="Email" height="30" src="https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com/denilsonbezerra_">
-    <img align="center" alt="Instagram" height="30" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram&logoColor=white">
-  </a>
   <a href="https://www.linkedin.com/in/denilson-bezerra-178507223/">
     <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://tinyurl.com/whatsapp-denilson-bezerra">
+    <img align="center" alt="WhatsApp" height="30" src="https://img.shields.io/badge/-WhatsApp-05122A?style=flat&logo=whatsapp&logoColor=white">
   </a>
 </div>
 
