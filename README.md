@@ -1,18 +1,28 @@
-# Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, eu sou o Denilson
+# <sup>en</sup> Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, I'm Denilson
 <a href="https://github.com/denilsonbezerra">
   <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=F4F9FC">
 </a>
 
-- **👨🏽‍🎓 Cursando Superior Tecnólogo em Análise e Desenvolvimento de Sistemas**
-  
-- **📚 Estudando Desenvolvimento Web Front-End (React)**
+- **📚 Studying Full-Stack Web Development**
 
-- **🌱 I’m currently learning english at [Kultivi](https://kultivi.com)**
+- **👨🏽‍🎓 Studying Technologist in Systems Analysis and Development**
 
-## 🛠 &nbsp;Dev Skills
+- **🌱 Currently improving and learning JavaScript, React, C# and .NET**
 
+# <sup>pt</sup> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, eu sou o Denilson
 <a href="https://github.com/denilsonbezerra">
   <img align="right" alt="Denilson Bezerra - Most Used Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=dark&bg_color=0D1117">
+</a>
+
+- **📚 Estudando Desenvolvimento Web Full-Stack**
+
+- **👨🏽‍🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas**
+
+- **🌱 Atualmente aprimorando e aprendendo JavaScript, React, C# e .NET**
+
+## 🛠 &nbsp;Dev Skills
+<a href="https://denilsonbezerra.github.io">
+  <img align="right" alt="Denilson's Curriculum" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=denilsonbezerra&repo=denilsonbezerra.github.io&theme=dark&bg_color=0D1117&icon_color=F4F9FC">
 </a>
 <br>
 <div>
