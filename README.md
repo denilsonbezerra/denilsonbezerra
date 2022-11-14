@@ -5,7 +5,7 @@
 
 - **📚 Studying Full-Stack Web Development**
 
-- **👨🏽‍🎓 Studying Technologist in Systems Analysis and Development**
+- **👨🏽‍🎓 Technologist in Systems Analysis and Development**
 
 - **🌱 Improving my knowledge in JavaScript, React, C# and .NET**
 
@@ -16,9 +16,9 @@
 
 - **📚 Estudando Desenvolvimento Web Full-Stack**
 
-- **👨🏽‍🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas**
+- **👨🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
-- **🌱 Aprimorando meu conhecimento em JavaScript, React, C# e .NET**
+- **🌱 Aprimorando o conhecimento em JavaScript, React, C# e .NET**
 
 ## 🛠 &nbsp;Dev Skills
 <a href="https://github.com/denilsonbezerra/denilsonbezerra.github.io">
