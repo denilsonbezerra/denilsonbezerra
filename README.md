@@ -7,7 +7,7 @@
 
 - **👨🏽‍🎓 Studying Technologist in Systems Analysis and Development**
 
-- **🌱 Currently improving and learning JavaScript, React, C# and .NET**
+- **🌱 Improving my knowledge in JavaScript, React, C# and .NET**
 
 # <sup>pt</sup> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, eu sou o Denilson
 <a href="https://github.com/denilsonbezerra">
@@ -18,7 +18,7 @@
 
 - **👨🏽‍🎓 Cursando Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
-- **🌱 Atualmente aprimorando e aprendendo JavaScript, React, C# e .NET**
+- **🌱 Aprimorando meu conhecimento em JavaScript, React, C# e .NET**
 
 ## 🛠 &nbsp;Dev Skills
 <a href="https://github.com/denilsonbezerra/denilsonbezerra.github.io">
