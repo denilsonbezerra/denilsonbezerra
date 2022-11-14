@@ -52,8 +52,3 @@
     <img align="center" alt="WhatsApp" height="30" src="https://img.shields.io/badge/WhatsApp-1f1f1f?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
-
-<div align="center">
-  <a href="https://github.com/denilsonbezerra">
-    <img alt="Snake animation" src="https://github.com/denilsonbezerra/denilsonbezerra/blob/output/github-contribution-grid-snake.svg"></a>
-</div>
