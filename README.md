@@ -21,7 +21,7 @@
 - **🌱 Atualmente aprimorando e aprendendo JavaScript, React, C# e .NET**
 
 ## 🛠 &nbsp;Dev Skills
-<a href="https://denilsonbezerra.github.io">
+<a href="https://github.com/denilsonbezerra/denilsonbezerra.github.io">
   <img align="right" alt="Denilson's Curriculum" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=denilsonbezerra&repo=denilsonbezerra.github.io&theme=dark&bg_color=0D1117&icon_color=F4F9FC">
 </a>
 <br>
