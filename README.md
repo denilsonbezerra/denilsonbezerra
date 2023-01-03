@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4463&height=120&section=header"/>
+
 # <sup>en</sup> Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, I'm Denilson
 <a href="https://github.com/denilsonbezerra">
   <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=F4F9FC">
@@ -7,7 +9,7 @@
 
 - **👨🏽‍🎓 Technologist in Systems Analysis and Development**
 
-- **🌱 Improving my knowledge in JavaScript, React, C# and .NET**
+- **🌱 Improving my knowledge in C# and .NET**
 
 # <sup>pt</sup> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, eu sou o Denilson
 <a href="https://github.com/denilsonbezerra">
@@ -52,3 +54,5 @@
     <img align="center" alt="WhatsApp" height="30" src="https://img.shields.io/badge/WhatsApp-1f1f1f?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4463&height=120&section=footer"/>
