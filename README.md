@@ -20,7 +20,7 @@
 
 - **👨🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas**
 
-- **🌱 Aprimorando o conhecimento em JavaScript, React, C# e .NET**
+- **🌱 Aprimorando o conhecimento em C# e .NET**
 
 ## 🛠 &nbsp;Dev Skills
 <a href="https://github.com/denilsonbezerra/denilsonbezerra.github.io">
