@@ -2,7 +2,7 @@
 
 # <sup>en</sup> Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, I'm Denilson
 <a href="https://github.com/denilsonbezerra">
-  <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=F4F9FC">
+  <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=F4F9FC">
 </a>
 
 - **📚 Studying Full-Stack Web Development**
@@ -13,7 +13,7 @@
 
 # <sup>pt</sup> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, eu sou o Denilson
 <a href="https://github.com/denilsonbezerra">
-  <img align="right" alt="Denilson Bezerra - Most Used Languages" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=dark&bg_color=0D1117">
+  <img align="right" alt="Denilson Bezerra - Most Used Languages" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=dark&bg_color=0D1117">
 </a>
 
 - **📚 Estudando Desenvolvimento Web Full-Stack**
@@ -24,7 +24,7 @@
 
 ## 🛠 &nbsp;Dev Skills
 <a href="https://github.com/denilsonbezerra/denilsonbezerra.github.io">
-  <img align="right" alt="Denilson's Curriculum" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=denilsonbezerra&repo=denilsonbezerra.github.io&theme=dark&bg_color=0D1117&icon_color=F4F9FC">
+  <img align="right" alt="Denilson's Curriculum" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=denilsonbezerra&repo=denilsonbezerra.github.io&theme=dark&bg_color=0D1117&icon_color=F4F9FC">
 </a>
 <br>
 <div>
