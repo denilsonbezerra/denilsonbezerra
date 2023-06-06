@@ -23,10 +23,6 @@
 - **🌱 Aprimorando o conhecimento em C# e .NET**
 
 ## 🛠 &nbsp;Dev Skills
-<a href="https://github.com/denilsonbezerra/denilsonbezerra.github.io">
-  <img align="right" alt="Denilson's Curriculum" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=denilsonbezerra&repo=denilsonbezerra.github.io&theme=dark&bg_color=0D1117&icon_color=F4F9FC">
-</a>
-<br>
 <div>
   <a href="https://github.com/denilsonbezerra">
     <img align="center" alt="HTML5" height="40" width="55" src="https://tinyurl.com/html5-icon"></a>
