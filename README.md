@@ -46,7 +46,7 @@
     <img align="center" alt="Email" height="30" src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/denilson-bezerra/">
     <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-1f1f1f.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://tinyurl.com/whatsapp-denilson-bezerra">
+  <a href="https://api.whatsapp.com/send?phone=5585982278774">
     <img align="center" alt="WhatsApp" height="30" src="https://img.shields.io/badge/WhatsApp-1f1f1f?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
