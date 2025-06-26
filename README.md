@@ -37,8 +37,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
 </div>
 
 ---
