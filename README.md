@@ -1,54 +1,64 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4463&height=120&section=header"/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F4463&height=120&section=header" />
 
-# <sup>en</sup> Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, I'm Denilson
-<a href="https://github.com/denilsonbezerra">
-  <img align="right" alt="Denilson Bezerra - GitHub Stats" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0D1117&icon_color=F4F9FC">
-</a>
+  <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" />, eu sou o <strong>Denilson Bezerra</strong></h1>
 
-- **📚 Studying Full-Stack Web Development**
-
-- **👨🏽‍🎓 Technologist in Systems Analysis and Development**
-
-- **🌱 Improving my knowledge in C# and .NET**
-
-# <sup>pt</sup> Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30em">, eu sou o Denilson
-<a href="https://github.com/denilsonbezerra">
-  <img align="right" alt="Denilson Bezerra - Most Used Languages" height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&langs_count=4&theme=dark&bg_color=0D1117">
-</a>
-
-- **📚 Estudando Desenvolvimento Web Full-Stack**
-
-- **👨🏽‍🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas**
-
-- **🌱 Aprimorando o conhecimento em C# e .NET**
-
-## 🛠 &nbsp;Dev Skills
-<div>
-  <a href="https://github.com/denilsonbezerra">
-    <img align="center" alt="HTML5" height="40" width="55" src="https://tinyurl.com/html5-icon"></a>
-  <a href="https://github.com/denilsonbezerra">
-    <img align="center" alt="CSS3" height="40" width="55" src="https://tinyurl.com/css3-icon"></a>
-  <a href="https://github.com/denilsonbezerra">
-    <img align="center" alt="JavaScript" height="38" width="55" src="https://tinyurl.com/js-icon"></a>
-  <br><br>
-  <a href="https://github.com/denilsonbezerra">
-    <img align="center" alt="Git" height="40" width="55" src="https://tinyurl.com/git-icon"></a>
-  <a href="https://github.com/denilsonbezerra">
-    <img align="center" alt="VS Code" height="38" width="55" src="https://tinyurl.com/vs-code-icon"></a>
-  <a href="https://github.com/denilsonbezerra">
-    <img align="center" alt="React" height="40" width="55" src="https://tinyurl.com/react-icon"></a>
+  <p>Desenvolvedor Web Full-Stack</p>
 </div>
 
-## 🔗 &nbsp;Social Links
+---
 
-<div>
+## 👨🏽‍💻 Sobre mim
+
+- 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
+- 💻 Estudando **Desenvolvimento Web Full-Stack**
+- 🚀 Praticando com projetos em **React**, **Tailwind**, **Next.js**, **Express** e **PostgreSQL**
+
+---
+
+## 🧰 Tecnologias que utilizo
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+</div>
+
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=denilsonbezerra&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denilsonbezerra&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=6" alt="Top Langs" />
+</div>
+
+---
+
+## 📫 Entre em contato
+
+<div align="center">
   <a href="mailto:denilsonbezerra.10@hotmail.com">
-    <img align="center" alt="Email" height="30" src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
   <a href="https://www.linkedin.com/in/denilson-bezerra/">
-    <img align="center" alt="LinkedIn" height="30" src="https://img.shields.io/badge/LinkedIn-1f1f1f.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <img src="https://img.shields.io/badge/LinkedIn-1f1f1f.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://api.whatsapp.com/send?phone=5585982278774">
-    <img align="center" alt="WhatsApp" height="30" src="https://img.shields.io/badge/WhatsApp-1f1f1f?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <img src="https://img.shields.io/badge/WhatsApp-1f1f1f?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4463&height=120&section=footer"/>
+---
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F4463&height=120&section=footer"/>
+</div>
