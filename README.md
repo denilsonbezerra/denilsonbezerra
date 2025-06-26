@@ -10,8 +10,8 @@
 
 ## 👨🏽‍💻 Sobre mim
 
+- 💻 Praticando e evoluindo como **Desenvolvedor Web Full-Stack**
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
-- 💻 Estudando **Desenvolvimento Web Full-Stack**
 - 🚀 Praticando com projetos em **React**, **Tailwind**, **Next.js**, **Express** e **PostgreSQL**
 
 ---
