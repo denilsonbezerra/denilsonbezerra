@@ -3,7 +3,7 @@
 
   <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" />, eu sou o <strong>Denilson Bezerra</strong></h1>
 
-  <p>Desenvolvedor Web Full-Stack</p>
+  <h4>Desenvolvedor Web Full-Stack</h4>
 </div>
 
 ---
