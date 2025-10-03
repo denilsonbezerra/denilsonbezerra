@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F4463&height=120&section=header" />
 
-  <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" />, eu sou o <strong>Denilson Bezerra</strong></h1>
+  <h1>Olá, eu sou o <strong>Denilson Bezerra</strong></h1>
 
   <h4>Desenvolvedor Web Full-Stack</h4>
 </div>
