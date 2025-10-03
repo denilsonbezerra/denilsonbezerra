@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2F4463&height=120&section=header" />
 
-  <h1>Olá, eu sou o <strong>Denilson Bezerra</strong></h1>
+  <h1>Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" />, eu sou o <strong>Denilson Bezerra</strong></h1>
 
   <h4>Desenvolvedor Web Full-Stack</h4>
 </div>
@@ -10,9 +10,9 @@
 
 ## 👨🏽‍💻 Sobre mim
 
-- 💻 Praticando e evoluindo como **Desenvolvedor Web Full-Stack**
+- 💻 **Desenvolvedor Web Full-Stack** em constante evolução.
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
-- 🚀 Praticando com projetos em **React**, **Tailwind**, **Next.js**, **Express** e **PostgreSQL**
+- 🚀 Desenvolvendo soluções com **React**, **Tailwind**, **Next.js**, **Express** e **TypeScript**
 
 ---
 
@@ -22,13 +22,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" alt="HTML5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" alt="CSS3" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" alt="React" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="Tailwind CSS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" alt="Express" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="40" alt="Supabase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" width="40" alt="npm" />
 </div>
 
 
